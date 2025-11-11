@@ -1,6 +1,6 @@
  
 CREATE OR REPLACE TABLE JSON_DB.PUBLIC.JSON_TABLE( 
-DATA VARIANT 
+DATA VARIANT  
 ); 
 -- json flattening without hierarchy  
  
