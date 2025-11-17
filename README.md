@@ -1,7 +1,7 @@
 # Snowflake
 Snowflake Scripts, SCD1 and SCD2 Implementation:-
 
-**ETL SCD1 using Snowflake Tasks, Streams and Stored Procedures**
+**ETL SCD1 using Snowflake Tasks, Streams, and Stored Procedures**
 
 **Slowly Changing Dimension(SCD) Type1:** Slowly Changing Dimensions are dimensions (like Customer, Product, Employee) whose attributes change slowly over time, not every day like transactions. 
 Example:
